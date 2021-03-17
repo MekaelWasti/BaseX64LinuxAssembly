@@ -12,11 +12,17 @@ Even though it is not required to use this project, it is also recommended that 
 
 `sudo apt install gdb`
 
-## Building Your Code
+## Building the Program
 
 The following command runs the assembler and links the resulting object code:
 
 `make`
+
+## Running the Program
+
+The following command runs the assembler and links the resulting object code:
+
+`./main.out`
 
 ## Cleaning Up
 
