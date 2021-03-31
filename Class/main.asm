@@ -20,7 +20,7 @@ main:
   push rcx
   call scanf
   pop rcx
-  
+
   mov rdi, promptFormat
   mov rsi, prompt_age
   mov rax, 0
@@ -43,7 +43,6 @@ main:
   call printf
   pop rbx
   
-
 
 
 
