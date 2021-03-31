@@ -45,7 +45,6 @@ main:
   
 
 
-
   ; exit(0)
   mov rax, 0
   call exit
